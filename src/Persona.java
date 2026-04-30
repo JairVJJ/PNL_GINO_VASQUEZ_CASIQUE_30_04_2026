@@ -15,6 +15,6 @@ public class Persona implements Serializable {
     }
 
     public void mostrar_informacion() {
-        System.out.println("Nombre: " + nombre + " | ID: " + identificacion);
+        System.out.println("xx: " + nombre + " | ID: " + identificacion);
     }
 }
